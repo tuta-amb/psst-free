@@ -12,6 +12,7 @@ Contributions are welcome!
 ![Screenshot](./psst-gui/assets/screenshot.png)
 
 
+
 ## Download
 
 GitHub Actions automatically creates builds when new commits are pushed to the `master` branch.
